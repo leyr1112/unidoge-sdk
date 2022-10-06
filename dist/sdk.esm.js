@@ -35,8 +35,8 @@ var Rounding;
   Rounding[Rounding["ROUND_UP"] = 2] = "ROUND_UP";
 })(Rounding || (Rounding = {}));
 
-var FACTORY_ADDRESS = '0xF4bc79D32A7dEfd87c8A9C100FD83206bbF19Af5';
-var INIT_CODE_HASH = '0xcac27a3deb12764156265fb78d54dcb0d65ecc938272597dd22a45ed05e02e7a';
+var FACTORY_ADDRESS = '0xd27d9d61590874bf9ee2a19b27e265399929c9c3';
+var INIT_CODE_HASH = '0xbfc2d4e06b5c176871b6144c7de089666b9ec72c1d8ba86002bfc8ea119b2419';
 var MINIMUM_LIQUIDITY = /*#__PURE__*/JSBI.BigInt(1000); // exports for internal consumption
 
 var ZERO = /*#__PURE__*/JSBI.BigInt(0);
